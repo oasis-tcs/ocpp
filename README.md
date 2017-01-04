@@ -2,7 +2,7 @@
 <h2>README</h2>
 
 <div>
-<p><b>NB:</b> This GitHub repository was deactivated on 2017-01-04 since the OASIS TC associated with the repository was <a href="https://lists.oasis-open.org/archives/ocpp/201612/msg00039.html">closed</a>. OASIS does not expect to provide ongoing support for this repository.  The TC's <a href="https://www.oasis-open.org/committees/comments/index.php?wg_abbrev=ocpp">comment list</a> remains open for subscription and posting.</p>
+<p><b>NB:</b> This GitHub repository was deactivated on 2017-01-04 since the OASIS TC associated with the repository was <a href="https://lists.oasis-open.org/archives/ocpp/201612/msg00039.html">closed</a>. OASIS does not expect to provide ongoing support for this repository.  The TC's <a href="https://www.oasis-open.org/committees/comments/index.php?wg_abbrev=ocpp">comment list</a> remains open for subscription and posting.</p><hr>
 </div>
 
 <div>
